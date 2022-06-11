@@ -1,5 +1,5 @@
 ---
-title: 🪴 Zac Wesley-Brown Resources
+title: 🪴 Home
 ---
 
 Host your second brain and [digital garden](https://quartz.zacwesleybrown.com/posts/networked-thought) for free. Quartz features
